@@ -242,8 +242,8 @@ function renderSvg(contributionMap, sourceLabel, themeName = 'light') {
         const label = date.toLocaleString('en-US', { month: 'short', timeZone: 'UTC' })
         monthLabels.push(`<text x="${x}" y="14" class="month">${label}</text>`)
         lastLabelX = x
+        lastMonth = month
       }
-      lastMonth = month
     }
   }
 
