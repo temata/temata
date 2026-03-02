@@ -13,7 +13,7 @@
 ## GitLab Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/gitlab-contributions-dark.svg" />
-  <img alt="GitLab contributions calendar" src="./assets/gitlab-contributions-dark.svg" />
+  <img alt="GitLab contributions calendar" src="./assets/gitlab-contributions.svg" />
 </picture>
 
 _Auto-generated from `https://forge.bposeats.com/users/therese.mata/calendar.json`_
