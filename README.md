@@ -30,13 +30,13 @@ I build maintainable web applications with a strong focus on performance, delive
 - Direct development ownership: **[HQZen.com](https://hqzen.com)**
 
 ## Experience Snapshot
-### Channel Information Technology
-- **Associate Technical Lead** (Jan 2026 - Present)
-  - Sprint leadership, blocker management, and team coaching
-- **Technical Field Consultant** (Jul 2024 - 2026)
-  - On-site discovery, deployment support, and RCA workflows
-- **Full-Stack Developer** (Sep 2023 - Present)
-  - Built workflow features and improved API performance (637 ms -> 8.96 ms)
+**Channel Information Technology Inc.**  
+*Key projects:* [HQZen.com](https://hqzen.com) · [Bposeats.com](https://bposeats.com) · [Scalema.com](https://scalema.com)  
+💼   **_Associate Technical Lead_** · Jan 2026 – Present  
+💼   **_Full-Stack Developer_** · Sep 2023 – Present  
+💼   **_Technical Field Consultant_** · Jul 2024 – Jan 2026  
+
+
 
 ## Tech Stack
 **Frontend**
