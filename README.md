@@ -16,8 +16,6 @@
   <img alt="GitLab contributions calendar" src="./assets/gitlab-contributions.svg" />
 </picture>
 
-_Auto-generated from `https://forge.bposeats.com/users/therese.mata/calendar.json`_
-
 `npm run generate:gitlab-calendar` refreshes the SVG locally.
 
 ## About Me
