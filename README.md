@@ -3,7 +3,7 @@
 # Hi, I'm Ders! 👾
 ### Full-Stack Developer | Technical Lead | Product Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ders.io-0f172a?style=for-the-badge)]([to-update](https://ders-io.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ders.io-0f172a?style=for-the-badge)](https://ders-io.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-therese--raye--mata-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/therese-raye-mata/)
 [![GitLab](https://img.shields.io/badge/GitLab-therese.mata-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)](https://forge.bposeats.com/therese.mata)
 [![Email](https://img.shields.io/badge/Email-therese.bposeats%40gmail.com-334155?style=for-the-badge&logo=gmail)](mailto:therese.bposeats@gmail.com)
