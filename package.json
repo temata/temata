@@ -1,0 +1,7 @@
+{
+  "name": "temata",
+  "private": true,
+  "scripts": {
+    "generate:gitlab-calendar": "node scripts/generate-gitlab-calendar.mjs"
+  }
+}
