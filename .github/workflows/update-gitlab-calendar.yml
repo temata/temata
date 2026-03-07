@@ -37,4 +37,5 @@ jobs:
           git config user.email "thereserayemata@gmail.com"
           git add assets/gitlab-contributions.svg assets/gitlab-contributions-dark.svg
           git commit -m "chore(readme): update GitLab contribution calendar"
+          git pull --rebase origin main
           git push
