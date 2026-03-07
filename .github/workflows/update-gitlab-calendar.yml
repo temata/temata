@@ -24,7 +24,7 @@ jobs:
       - name: Generate calendar SVG
         run: npm run generate:gitlab-calendar
         env:
-          GITLAB_CALENDAR_URL: ${{ vars.GITLAB_CALENDAR_URL }}
+          GITLAB_CALENDAR_URL: ${{ secrets.GITLAB_CALENDAR_URL }}
 
       - name: Commit and push changes
         run: |
@@ -33,8 +33,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "temata"
+          git config user.email "thereserayemata@gmail.com"
           git add assets/gitlab-contributions.svg assets/gitlab-contributions-dark.svg
           git commit -m "chore(readme): update GitLab contribution calendar"
           git push
