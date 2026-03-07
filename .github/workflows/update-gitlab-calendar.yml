@@ -24,7 +24,7 @@ jobs:
       - name: Generate calendar SVG
         run: npm run generate:gitlab-calendar
         env:
-          GITLAB_CALENDAR_URL: ${{ secrets.GITLAB_CALENDAR_URL }}
+          GITLAB_CALENDAR: ${{ secrets.GITLAB_CALENDAR_URL }}
 
       - name: Commit and push changes
         run: |
