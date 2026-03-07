@@ -5,8 +5,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ders.io-0f172a?style=for-the-badge)](https://ders-io.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-therese--raye--mata-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/therese-raye-mata/)
+[![Email](https://img.shields.io/badge/Email-thereserayemata%40gmail.com-334155?style=for-the-badge&logo=gmail)](mailto:thereserayemata@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-therese.mata-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)](https://forge.bposeats.com/therese.mata)
-[![Email](https://img.shields.io/badge/Email-therese.bposeats%40gmail.com-334155?style=for-the-badge&logo=gmail)](mailto:therese.bposeats@gmail.com)
 
 </div>
 
@@ -21,11 +21,9 @@
 ## About Me
 I build maintainable web applications with a strong focus on performance, delivery quality, and user impact.
 
-- 3+ years as a professional developer
-- 30+ delivered features in production
+- 3+ years as a professional developer.
+- 30+ delivered features in production.
 - Current role: **Associate Technical Lead**
-- Core product experience: **HQZen**, **ScaleMA**, **BPOSeats**
-- Direct development ownership: **[HQZen.com](https://hqzen.com)**
 
 ## Experience Snapshot
 **Channel Information Technology Inc.**  
@@ -75,7 +73,7 @@ Environmental organization platform with CMS features for administrators.
 Delivered production modules across ticketing, channels, Kanban, notifications, and progress tracking.
 
 ## Let's Connect
-- Email: [therese.bposeats@gmail.com](mailto:therese.bposeats@gmail.com)
+- Email: [thereserayemata@gmail.com](mailto:thereserayemata@gmail.com)
 - LinkedIn: [therese-raye-mata](https://linkedin.com/in/therese-raye-mata/)
 - GitHub: [temata](https://github.com/temata)
 - GitLab: [therese.mata](https://forge.bposeats.com/therese.mata)
