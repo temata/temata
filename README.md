@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Ders! 👾
-### Full-Stack Developer | Technical Lead | Product Builder
+### Full-Stack Developer | Associate Lead | Product Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ders.io-0f172a?style=for-the-badge)](https://ders-io.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-therese--raye--mata-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/therese-raye-mata/)
@@ -23,12 +23,12 @@ I build maintainable web applications with a strong focus on performance, delive
 
 - 3+ years as a professional developer.
 - 30+ delivered features in production.
-- Current role: **Associate Technical Lead**
+- Current role: **Associate Team Lead**
 
 ## Experience Snapshot
 **Channel Information Technology Inc.**  
 *Key projects:* [HQZen.com](https://hqzen.com) · [Bposeats.com](https://bposeats.com) · [Scalema.com](https://scalema.com)  
-💼   **_Associate Technical Lead_** · Jan 2026 – Present  
+💼   **_Associate Team Lead_** · Jan 2026 – Present  
 💼   **_Full-Stack Developer_** · Sep 2023 – Present  
 💼   **_Technical Field Consultant_** · Jul 2024 – Jan 2026  
 
